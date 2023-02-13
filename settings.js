@@ -11,34 +11,34 @@ global.doc6 = 'application/vnd.android.package-archive'
 //==============================\
 autoread = true
 ///Gantien dewe sak karepmu..,
-global.pulsa = "628xxx"
-global.gopay = "628xxx"
-global.dana = "628xxx"
-global.packname = 'Lenttobs'
-global.footer = '©Maslent'
-global.ovo = "628xxx"
-global.ownerlen = "Maslent/Lenttobs"//Ubah
-global.owner = ['628xxxxxxxxx'] //ubh nomor owner hp
-global.ownername = "Lenttobs" //ubah
-global.ytname = "YT: lenttobs"//ubah
-global.socialm = "IG: vlntncptr"//ubah
-global.location = "Indonesia, Jawatimur, Lumajang"//ubah
-global.ownernomer = "628xxxxxxxx"//ubah nomorhp owner
-global.premium = ['6285xxxxxxx3']//ubah nomor hp premium
-global.nomorcs = '628xxxxxxx'
-global.botname = 'BotWhangsafV15' //ubah
-global.linkz = "Link Gc"//ubah
-global.websitex = "yt mu"//ubah
+global.pulsa = "pm aja"
+global.gopay = "pm aja"
+global.dana = "pm aja"
+global.packname = 'SkyBot'
+global.footer = '© RexxyXD'
+global.ovo = "pm aja"
+global.ownerlen = "RexxyXD"//Ubah
+global.owner = ['6281328415399'] //ubh nomor owner hp
+global.ownername = "RexxyXD" //ubah
+global.ytname = "YT: GadingAgani"//ubah
+global.socialm = "IG: rexxy_xd"//ubah
+global.location = "Kepo Lu"//ubah
+global.ownernomer = "6281328415399"//ubah nomorhp owner
+global.premium = ['380999036771']//ubah nomor hp premium
+global.nomorcs = '15203484182'
+global.botname = 'SkyBot' //ubah
+global.linkz = "https://bit.ly/Sycho-RGA"//ubah
+global.websitex = "https://bit.ly/Sycho-RGA"//ubah
 global.botscript = '-'
 global.themeemoji = "😿"//ubah
-global.packname = "Sticker By"//ubah
-global.author = "Made by"//ubah
-global.wm = "Lenttobs"//ubah
+global.packname = "Sticker By SkyBot"//ubah
+global.author = "Made by RexxyXD"//ubah
+global.wm = "RexxyXD"//ubah
 global.sessionName = 'session'
 global.prefa = ['','!','.','#','&']
 global.sp = ''
 global.mess = {
-    success: 'Piye?!', //isien dewe Gantien bahasane Muales pol aku sak karepmu 
+    success: 'Sukses !', //isien dewe Gantien bahasane Muales pol aku sak karepmu 
     admin: 'This feature could be used by admins only!',
     botAdmin: 'Bot Must Be Admin First!',
     premime: 'Premium Special Features If You Want to Register Type Rent',
